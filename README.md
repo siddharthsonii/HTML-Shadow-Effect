@@ -1,3 +1,3 @@
-# HTML-Shadow-Effect
+# HTML Shadow Effect
 
 ![](Hover.png)
